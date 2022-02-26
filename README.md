@@ -57,4 +57,5 @@ After adding the bot into your server, you should see it online, and it should r
 ## Technologies Used
 - Spring Data
 - Java Discord API (JDA)
+- MySQL
   
